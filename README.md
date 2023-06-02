@@ -18,4 +18,4 @@ Omnifood to fikcyjna firma oferująca usługi dostawy zdrowych i smacznych posi�
 
 Repozytorium zawiera cały kod źródłowy, pliki CSS, obrazy i inne zasoby, które są niezbędne do wdrożenia strony internetowej Omnifood.
 
-W ten sposób prezentuję swoje umiejętności w projektowaniu i tworzeniu stron internetowych oraz demonstruję moje doświadczenie zdobyte podczas kursu. Zapraszam do zapoznania się z projektem i odkrywania różnych funkcji, które zostały zaimplementowane w stronie internetowej Omnifood.
+W ten sposób prezentuję swoje umiejętności w projektowaniu i tworzeniu stron internetowych oraz demonstruję moje doświadczenie zdobyte podczas kursu. Zapraszam do zapoznania się z projektem i odkrywania różnych funkcji, które zostały zaimplementowane w stronie internetowej Omnifood. Możesz zobaczyć stronę w akcji, klikając tutaj: <a href="https://akwiecinska.github.io/omnifood-website/">Omnifood Website</a>.
